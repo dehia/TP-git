@@ -1,0 +1,8 @@
+#ignore  binaries folder
+
+/bin/*
+#ignore  binaries files
+*.exe
+*.dll
+#include application.xml
+!/bin/application.xml
