@@ -1,4 +1,5 @@
-### application.bat - 201x - votre nom ###
+### application.bat - 2016 - Kahina Hellio ###
+### application.bat - 2016 - Yoanne Randria ###
 version = "2"
 build_hour = "11H00"
 
